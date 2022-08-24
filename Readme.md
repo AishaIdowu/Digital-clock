@@ -10,7 +10,7 @@ This is a solution to Digital Clock.The is a self challenge to improve my coding
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Live](#live page)
+- [Live](#live-page)
 
 
 
