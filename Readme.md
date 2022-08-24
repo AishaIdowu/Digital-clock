@@ -10,6 +10,7 @@ This is a solution to Digital Clock.The is a self challenge to improve my coding
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Live Page](#Live page)
 
 
 ## Overview
@@ -39,4 +40,6 @@ I want to update the style to fit both the desktop and mobile design and also bu
 
 ## Author
 - Github - [Aisha Idowu](https://github.com/AishaIdowu)
+## Live page
+[Live page]( https://aishaidowu.github.io/Digital-clock/)
 
